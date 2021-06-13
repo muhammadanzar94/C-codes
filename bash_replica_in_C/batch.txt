@@ -1,0 +1,4 @@
+cd ..
+echo myfile.txt
+ls
+pwd
